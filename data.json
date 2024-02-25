@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Fname": "Osama",
+        "Lname": "Tamer",
+        "age": 22,
+        "city": "Tama"
+    },
+    {
+        "id": 3,
+        "Fname": "Ahmad",
+        "Lname": "salah",
+        "age": 20,
+        "city": "Asuit"
+    },
+    {
+        "id": 5,
+        "Fname": "Amr",
+        "Lname": "Mohamd",
+        "age": 40,
+        "city": "cairo"
+    },
+    {
+        "id": 7,
+        "Fname": "Zezo",
+        "Lname": "Amr",
+        "age": 15,
+        "city": "Sohag"
+    },
+    {
+        "id": 9,
+        "Fname": "Fam",
+        "Lname": "Amir",
+        "age": 50,
+        "city": "Asswan"
+    },
+    {
+        "id": 10,
+        "Fname": "salah",
+        "Lname": "Rizk",
+        "age": 60,
+        "city": "Cairo"
+    }
+]
